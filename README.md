@@ -26,7 +26,7 @@ Efisiensi, memperbaiki kualitas layanan, dan mendukung visi serta misinya dalam 
 - Kolom `tapOutStopsName`, `tapOutStopsLat`, `tapOutStopsLon`, `stopEndSeq`, `tapOutTime` memiliki data kosong yang jumlahnya sama diperkirakan bahwa data dengan kosong dalam kolom tersebut adalah data yang sama jadi bisa dihapuskan nilai/value yang kosong.
 Untuk pengertian tiap kolom bisa dilihat di link dibawah:
 
-https://docs.google.com/document/d/1e-Q6S2RviDPrio6KCKA2EFg_54q51j036dp3pnwtTuw/edit?tab=t.0
+https://drive.google.com/drive/folders/1S04hk5uHfHYe6J1S6fVqDunuja1Lk1Lo
 
 ## Kesimpulan
 - Perilaku Penumpang Berdasarkan Waktu
