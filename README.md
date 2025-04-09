@@ -57,5 +57,5 @@ Perluas inisiatif “Zona Aman Perempuan” di halte dan dalam armada diseluruh 
 - Segmentasi Layanan Berdasarkan Usia
 <25 tahun: Program "Transjakarta Goes to School/University", kerjasama dengan Dinas Pendidikan.
 25–40 tahun: Paket langganan commuter, integrasi layanan kerja (kantor/kawasan industri).
->40 tahun: Fasilitas halte ramah lansia, sosialisasi hak prioritas, dan integrasi dengan layanan kesehatan/jemputan lansia.
+\>40 tahun: Fasilitas halte ramah lansia, sosialisasi hak prioritas, dan integrasi dengan layanan kesehatan/jemputan lansia.
 
