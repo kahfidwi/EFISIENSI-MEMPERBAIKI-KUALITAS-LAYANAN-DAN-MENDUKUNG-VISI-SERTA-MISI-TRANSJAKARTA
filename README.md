@@ -1,5 +1,8 @@
 # EFISIENSI MEMPERBAIKI KUALITAS LAYANAN DAN MENDUKUNG VISI SERTA MISI TRANSJAKARTA
 
+## Link Tableau
+https://public.tableau.com/app/profile/muhamad.kahfi/viz/TransjakartaDashboard_17431737096620/BerandaDashboard?publish=yes
+
 ## Latar Belakang
 Sebuah perusahaan yang bergerak di bidang transportasi milik pemerintah daerah yakni TransJakarta, ingin merekrut data analis. Perusahaan ini ingin meningkatkan efisiensi, memperbaiki kualitas layanan, dan mendukung visi serta misinya dalam menyediakan transportasi yang memudahkan dan membahagiakan warga Jakarta. 
 Untuk mencapai hal ini, analisis data perjalanan dan transaksi pengguna menjadi kunci. Data seperti rute, pemberhentian, waktu perjalanan, dan profil penumpang dapat memberikan wawasan mendalam terkait kebutuhan penumpang, pola perjalanan, serta efisiensi rute. Dengan menganalisis data tersebut, TransJakarta dapat mengoptimalkan efisiensi, memperbaiki kualitas layanan, dan mendukung visi serta misinya dalam menyediakan transportasi yang memudahkan dan membahagiakan warga Jakarta.
@@ -9,7 +12,7 @@ Meskipun TransJakarta telah menjadi tulang punggung transportasi publik di Jakar
 Oleh karena itu, diperlukan analisis data yang lebih mendalam untuk efisiensi, memperbaiki kualitas layanan, dan mendukung visi serta misinya dalam menyediakan transportasi yang memudahkan dan membahagiakan warga Jakarta.
 
 ## Tujuan Analisis
-- Efisiensi, memperbaiki kualitas layanan, dan mendukung visi serta misinya dalam menyediakan transportasi yang memudahkan dan membahagiakan warga Jakarta dengan:
+Efisiensi, memperbaiki kualitas layanan, dan mendukung visi serta misinya dalam menyediakan transportasi yang memudahkan dan membahagiakan warga Jakarta dengan:
 - Meningkatkan efisiensi dengan penjadwalan dinamis berdasarkan waktu sibuk dan jalur prioritas
 - Memperbaiki kualitas layanan dengan menjamin kenyamanan dan keamanan penumpang wanita dan menyesuaikan fasilitas Halte TransJakarta.
 - Memudahkan dan membahagiakan warga Jakarta disesuaikan berdasarkan usia penumpang dan biaya TransJakarta.
@@ -22,6 +25,7 @@ Oleh karena itu, diperlukan analisis data yang lebih mendalam untuk efisiensi, m
 - Kolom `payCardBirthDate`, `tapInTime`, `tapOutTime` memiliki data tipe object. Dari penjelasannya, kolom ini seharusnya berisikan data datetime dengan tujuan agar bisa dianalisis sebagai patokan waktu.
 - Kolom `tapOutStopsName`, `tapOutStopsLat`, `tapOutStopsLon`, `stopEndSeq`, `tapOutTime` memiliki data kosong yang jumlahnya sama diperkirakan bahwa data dengan kosong dalam kolom tersebut adalah data yang sama jadi bisa dihapuskan nilai/value yang kosong.
 Untuk pengertian tiap kolom bisa dilihat di link dibawah:
+
 https://docs.google.com/document/d/1e-Q6S2RviDPrio6KCKA2EFg_54q51j036dp3pnwtTuw/edit?tab=t.0
 
 ## Kesimpulan
