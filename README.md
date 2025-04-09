@@ -30,36 +30,36 @@ https://drive.google.com/drive/folders/1S04hk5uHfHYe6J1S6fVqDunuja1Lk1Lo
 
 ## Kesimpulan
 - Perilaku Penumpang Berdasarkan Waktu
-Jam paling sibuk terjadi pada pagi hari (05:00–07:00) dan sore hari (16:00–18:00).
-Ini berlaku untuk seluruh jenis layanan (BRT, Non-BRT, Mikrotrans, Royaltrans) dan konsisten pada semua kelompok usia dan gender.
+  - Jam paling sibuk terjadi pada pagi hari (05:00–07:00) dan sore hari (16:00–18:00).
+  - Ini berlaku untuk seluruh jenis layanan (BRT, Non-BRT, Mikrotrans, Royaltrans) dan konsisten pada semua kelompok usia dan gender.
 
 - Koridor Prioritas
-Koridor 9D (Pasar Minggu - Tanah Abang) dan JAK.36 (Cilangkap - Cililitan) merupakan koridor dengan volume tertinggi pada pagi dan sore hari.
-Koridor lain seperti 2E(Rusun Rawa Bebek - Kodamar), 8C(Kebayoran Lama - Tanah Abang), 1T (Cibubur - Balai Kota), JAK.06(Kampung Rambutan - Pondok Gede), dan S21(Ciputat - CSW) juga menunjukkan aktivitas tinggi dan dapat dikategorikan sebagai koridor sekunder prioritas.
+  - Koridor 9D (Pasar Minggu - Tanah Abang) dan JAK.36 (Cilangkap - Cililitan) merupakan koridor dengan volume tertinggi pada pagi dan sore hari.
+  - Koridor lain seperti 2E(Rusun Rawa Bebek - Kodamar), 8C(Kebayoran Lama - Tanah Abang), 1T (Cibubur - Balai Kota), JAK.06(Kampung Rambutan - Pondok Gede), dan S21(Ciputat - CSW) juga menunjukkan aktivitas tinggi dan dapat dikategorikan sebagai koridor sekunder prioritas.
 
 - Segmentasi Berdasarkan Usia dan Gender
-Usia 25–40 tahun adalah kelompok penumpang terbesar (45,8%), diikuti oleh usia <25 tahun (28,3%) dan >40 tahun (26%).
-Perempuan menunjukkan volume signifikan, terutama di titik-titik seperti Penjaringan, Tendean, Tanah Abang, Bundaran Senayan, dan Terminal Senen pada jam 06:00 dan 17:00–18:00.
+  - Usia 25–40 tahun adalah kelompok penumpang terbesar (45,8%), diikuti oleh usia <25 tahun (28,3%) dan >40 tahun (26%).
+  - Prnumpang perempuan menunjukkan volume signifikan, terutama di titik-titik seperti Penjaringan, Tendean, Tanah Abang, Bundaran Senayan, dan Terminal Senen pada jam 06:00 dan 17:00–18:00.
 
 - Pola Titik Naik dan Turun
-Titik tap-in populer: Garuda Taman Mini, SMKN 56, Penjaringan, Grand Sahid.
-Titik tap-out populer: BKN, Bundaran Senayan, Tendean, Terminal Senen, JPO Blok G.
-Titik-titik ini menunjukkan keterkaitan antara permukiman, perkantoran, pendidikan, dan terminal transit.
+  - Titik tap-in populer: Garuda Taman Mini, SMKN 56, Penjaringan, Grand Sahid.
+  - Titik tap-out populer: BKN, Bundaran Senayan, Tendean, Terminal Senen, JPO Blok G.
+  - Titik-titik ini menunjukkan keterkaitan antara permukiman, perkantoran, pendidikan, dan terminal transit.
 
 ## Rekomendasi
 - Peningkatan Efisiensi Operasional
-Terapkan penjadwalan dinamis berdasarkan waktu sibuk dan jalur prioritas.
-Fokus penambahan armada di jam 05:00–07:00 dan 16:00–18:00 untuk koridor seperti 9D(Pasar Minggu - Tanah Abang), JAK.36 (Cilangkap - Cililitan) , dan 2E(Rusun Rawa Bebek - Kodamar).
+  - Terapkan penjadwalan dinamis berdasarkan waktu sibuk dan jalur prioritas.
+  - Fokus penambahan armada di jam 05:00–07:00 dan 16:00–18:00 untuk koridor seperti 9D(Pasar Minggu - Tanah Abang), JAK.36 (Cilangkap - Cililitan) , dan 2E(Rusun Rawa Bebek - Kodamar).
 
 - Penguatan Mikrotrans dan Non-BRT
-Karena banyak perjalanan berasal dari layanan feeder dan non-BRT, perluasan dan peningkatan kualitas Mikrotrans dan Non-BRT akan meningkatkan aksesibilitas dan kenyamanan.
+  - Karena banyak perjalanan berasal dari layanan feeder dan non-BRT, perluasan dan peningkatan kualitas Mikrotrans dan Non-BRT akan meningkatkan aksesibilitas dan kenyamanan.
 
 - Layanan Ramah Gender
-Titik-titik seperti Penjaringan, GBK, dan Tendean perlu pencahayaan, CCTV, dan fasilitas keamanan tambahan, terutama di sore dan malam hari.
-Perluas inisiatif “Zona Aman Perempuan” di halte dan dalam armada diseluruh halte.
+  - Titik-titik seperti Penjaringan, GBK, dan Tendean perlu pencahayaan, CCTV, dan fasilitas keamanan tambahan, terutama di sore dan malam hari.
+  - Perluas inisiatif “Zona Aman Perempuan” di halte dan dalam armada diseluruh halte.
 
 - Segmentasi Layanan Berdasarkan Usia
-<25 tahun: Program "Transjakarta Goes to School/University", kerjasama dengan Dinas Pendidikan.
-25–40 tahun: Paket langganan commuter, integrasi layanan kerja (kantor/kawasan industri).
-\>40 tahun: Fasilitas halte ramah lansia, sosialisasi hak prioritas, dan integrasi dengan layanan kesehatan/jemputan lansia.
+  - <25 tahun: Program "Transjakarta Goes to School/University", kerjasama dengan Dinas Pendidikan.
+  - 25–40 tahun: Paket langganan commuter, integrasi layanan kerja (kantor/kawasan industri).
+  - \>40 tahun: Fasilitas halte ramah lansia, sosialisasi hak prioritas, dan integrasi dengan layanan kesehatan/jemputan lansia.
 
